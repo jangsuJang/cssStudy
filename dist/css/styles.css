@@ -78,6 +78,8 @@ header>nav>ul>li{
     background-size: cover;
     cursor: pointer;
     transition: all 0.2s linear;
+    margin-top: 2px;
+    margin-right: 2px;
 }
 
 .gallery_item:hover{
